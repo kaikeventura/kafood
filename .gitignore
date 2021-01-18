@@ -1,0 +1,12 @@
+target/
+.idea/*
+key.zip
+*.log
+
+.classpath
+.factorypath
+.project
+.settings/
+.vscode/
+
+simpllink.iml
